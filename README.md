@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on implementing a deep neural network for depth reconstruction from a single image. It follows the pioneering work of Eigen et al. ([2014](https://arxiv.org/pdf/1406.2283.pdf), [2015](https://openaccess.thecvf.com/content_iccv_2015/papers/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.pdf)) and uses the [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) for training and evaluation.
+This project focuses on implementing a deep neural network for depth reconstruction from 2 images from different perspective. It follows the pioneering work of Eigen et al. ([2014](https://arxiv.org/pdf/1406.2283.pdf), [2015](https://openaccess.thecvf.com/content_iccv_2015/papers/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.pdf)) and uses the [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo) for training and evaluation.
 
 ## Features
 
